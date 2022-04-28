@@ -1,0 +1,72 @@
+Test insertiong first.
+Should print 0 since the size can't go beyond 9.
+0
+(2,Daryl Posnett)
+(4,John Chanellor) (40,Aaron Kaloti)
+(30,Jiaming Jiang) (200,Mathew Butner) (1000,Sam Blitz) (97,Zhaojun Bai)
+(100,Ben Morris) (80,Thomas Weideman) 
+Test for copy constructor
+Test for operator=
+9
+9
+(2,Daryl Posnett)
+(4,John Chanellor) (40,Aaron Kaloti)
+(30,Jiaming Jiang) (200,Mathew Butner) (1000,Sam Blitz) (97,Zhaojun Bai)
+(100,Ben Morris) (80,Thomas Weideman) 
+Testing getMin Operations
+2
+Daryl Posnett
+Testing delete Operations and deleteMin
+1
+1
+0
+(4,John Chanellor)
+(30,Jiaming Jiang) (40,Aaron Kaloti)
+(80,Thomas Weideman) (200,Mathew Butner) (1000,Sam Blitz) (97,Zhaojun Bai)
+(100,Ben Morris) 
+P1 and p2 should be the same. Check manually
+(4,John Chanellor)
+(30,Jiaming Jiang) (40,Aaron Kaloti)
+(80,Thomas Weideman) (200,Mathew Butner) (1000,Sam Blitz) (97,Zhaojun Bai)
+(100,Ben Morris) 
+Print p3, altough it doesn't give us anything
+Check decrease and increase key operation.
+1
+1
+(1,Sam Blitz)
+(30,Jiaming Jiang) (4,John Chanellor)
+(80,Thomas Weideman) (200,Mathew Butner) (40,Aaron Kaloti) (97,Zhaojun Bai)
+(100,Ben Morris) 
+Separate p1 and p2
+(4,John Chanellor)
+(80,Thomas Weideman) (40,Aaron Kaloti)
+(100,Ben Morris) (200,Mathew Butner) (1000,Sam Blitz) (97,Zhaojun Bai)
+(10030,Jiaming Jiang) 
+Testing get method. Also update the heap
+1
+1
+0
+Do a update by ourself
+Get the professor with key of 4 John Chanellor
+(1,Sam Blitz)
+(30,Jiaming Jiang) (4,Zhan Zhang)
+(80,Thomas Weideman) (200,Mathew Butner) (40,Aaron Kaloti) (97,Zhaojun Bai)
+(100,Ben Morris) 
+I will use an empty object to test our operations. It should give you 1s
+1
+1
+1
+1
+1
+1
+1
+Test noexcept
+Print p5
+(4,John Chanellor)
+(80,Thomas Weideman) (40,Aaron Kaloti)
+(100,Ben Morris) (200,Mathew Butner) (1000,Sam Blitz) (97,Zhaojun Bai)
+(10030,Jiaming Jiang) 
+Print p4 and p4 should be destroyed
+Clean up heap
+Shouldn't print anything and goes straight to that's all.
+That's all for my_test

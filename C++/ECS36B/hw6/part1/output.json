@@ -1,0 +1,112 @@
+[
+	{
+		"name" : "ecs36b_hw3",
+		"params" : 
+		{
+			"action" : "remote_call",
+			"arguments" : "jsonstr",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890"
+		},
+		"returns" : 
+		{
+			"action" : "call",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890",
+			"response" : "jsonstr"
+		}
+	},
+	{
+		"name" : "GetDistance",
+		"params" : 
+		{
+			"action" : "remote_call",
+			"arguments" : "jsonstr",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890"
+		},
+		"returns" : 
+		{
+			"action" : "call",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890",
+			"response" : "jsonstr"
+		}
+	},
+	{
+		"name" : "Conflict_of_Interest",
+		"params" : 
+		{
+			"action" : "remote_call",
+			"arguments" : "jsonstr",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890"
+		},
+		"returns" : 
+		{
+			"action" : "call",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890",
+			"response" : "jsonstr"
+		}
+	},
+	{
+		"name" : "OperatorEqEq",
+		"params" : 
+		{
+			"aPerson_class_id" : "transaction",
+			"aPerson_host_url" : "1234567890",
+			"aPerson_object_id" : "0000000001",
+			"aPerson_owner_vsID" : "1234567890",
+			"action" : "remote_call",
+			"arguments" : "jsonstr",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890"
+		},
+		"returns" : 
+		{
+			"action" : "call",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890",
+			"response" : "jsonstr"
+		}
+	},
+	{
+		"name" : "GetVsID",
+		"params" : 
+		{
+			"action" : "remote_call",
+			"arguments" : "jsonstr",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890"
+		},
+		"returns" : 
+		{
+			"action" : "call",
+			"class_id" : "transaction",
+			"host_url" : "1234567890",
+			"object_id" : "0000000001",
+			"owner_vsID" : "1234567890",
+			"response" : "jsonstr"
+		}
+	}
+]
+

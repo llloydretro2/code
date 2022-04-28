@@ -1,0 +1,27 @@
+
+This program is to request or submit your small program experiments, counting for 20% of the grade.
+
+How to build:
+
+$ make
+
+How to use it:
+
+to request: $ ./sp_client <ip address> <port number> <vsID>
+to submit:  $ ./sp_client <ip address> <port number> <vsID> <github_url> <output file>
+
+where <ip address>  is 169.237.6.102
+  and <port number> is 95599
+  vsID 1191212287126685842117406688891163646834
+
+Here is how to produce the <output file>
+You go to the directory, following the github URL being sent back to you.
+Download and compile the program --
+
+$ g++ -std=c++17 *.cpp
+$ ./a.out > my.output
+$ ./sp_client 169.237.6.102 94136 <your vsID> <the github_url> my.output
+
+Good luck.
+-Felix
+

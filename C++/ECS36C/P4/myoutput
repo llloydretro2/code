@@ -1,0 +1,21 @@
+Test insertiong first.
+Should print 0 since the size can't go beyond 9.
+0
+(2,Daryl Posnett) 
+(4,John Chanellor) (40,Aaron Kaloti) 
+(30,Jiaming Jiang) (200,Mathew Butner) (1000,Sam Blitz) (97,Zhaojun Bai) 
+(100,Ben Morris) (80,Thomas Weideman) 
+Test for copy constructor
+Test for operator=
+9
+9
+(2,Daryl Posnett) 
+(4,John Chanellor) (40,Aaron Kaloti) 
+(30,Jiaming Jiang) (200,Mathew Butner) (1000,Sam Blitz) (97,Zhaojun Bai) 
+(100,Ben Morris) (80,Thomas Weideman) 
+Testing getMin Operations
+2
+Daryl Posnett
+Testing delete Operations and deleteMin
+1
+1

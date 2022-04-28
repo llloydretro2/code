@@ -1,0 +1,21 @@
+Box usable volume is Box parameter = 5
+24000
+Box usable volume is ToughPack parameter = 5
+20400
+Box usable volume is Carton parameter = 5
+22722.4
+hardcase volume is ToughPack parameter = 500
+20400
+
+box volume through pBox is Box parameter = 5
+24000
+Box usable volume is Box parameter = 5
+24000
+hardcase volume through pBox is ToughPack parameter = 5
+20400
+Box usable volume is ToughPack parameter = 5
+20400
+carton volume through pBox is Carton parameter = 5
+22722.4
+Box usable volume is Carton parameter = 5
+22722.4

@@ -1,0 +1,40 @@
+'{"action": "ecs36b_hw2", "sID": "918158439", "avatar_name": "Amon", "codec: "1450573622", "srcIP": "76.20.47.100", "latitude": "-33.872", "longitude": "151.213", "ifconfig_srcIP": "128.120.251.227", "NAT": "yes"}'
+
+
+
+
+./ecs36b_hw1_client 169.237.6.102 95601 '{"action": "ecs36b_hw2", "sID": "918158439", "avatar_name": "Amon", "code: "1266235189", "srcIP": "128.120.238.195", "latitude": "38.544", "longitude": "-121.740", "ifconfig_srcIP": "168.150.24.407", "NAT": "yes"}'
+
+
+
+
+
+./ecs36b_hw1_client 169.237.6.102 95600 918158439
+
+
+
+{"status": "successful", "name": "Cao, Haosen", "sID": "918158439", "uID": "caohs11", "session": "ECS 036B 001 FQ 2021 and ECS 036B 001 FQ 2021", "time": "Thu Oct 21 14:34:05 2021", "ip address": "128.120.238.195", "port": "40684", "code": "255789528"}
+
+./ecs36b_hw2_testing 169.237.6.102 95603 1655183342416469414644530021960699071
+
+./ecs36b_hw1_client 169.237.6.102 95601 '{"action": "ecs36b_hw2", "sID": "917985205", "avatar_name": "drew", "code": "620145550", "srcIP": "128.120.237.90", "latitude": "38.544", "longitude": "-121.740", "ifconfig_srcIP": "10.0.0.128", "NAT": "yes"}'
+
+./ecs36b_hw1_client 169.237.6.102 95601 '{"action": "ecs36b_hw2", "sID": "918158439", "avatar_name": "Amon", "code": "1242608872", "srcIP": "128.120.237.90", "latitude": "38.544", "longitude": "-121.740", "ifconfig_srcIP": "10.0.0.128", "NAT": "yes"}'
+
+
+
+./ecs36b_hw1_client 169.237.6.102 95604 '{"action": "ecs36b_hw2", "sID": "918158439", "avatar_name": "amon", "code": "1291554098"}'
+
+1930772757
+
+./ecs36b_hw2_testing 169.237.6.102 95603 1191212287126685842117406688891163646834
+
+scp <filename> <username>@<pc)number>.cs.ucdavis.edu:<folder>
+
+scp hw3_submission_caohs11_918158439.tar.gz caohs11@pc20.cs.ucdavis.edu :
+
+tar zcvf ecs36b_f2021_hw2_submission_caohs11.tar.gz ecs36b_f2021_hw2
+
+tar zcvf ecs36b_f2021_hw2_submission_caohs11.tar.gz ecs36b_f2021_hw2
+
+Offer@2020wuhan

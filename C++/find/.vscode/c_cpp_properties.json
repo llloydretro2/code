@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/**",
+                "/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/**",
+                "/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include/**",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/**",
+                "/Library/Developer/CommandLineTools/usr/include/**",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/**",
+                "/usr/local/opt/opencv/include/opencv4/**",
+                "/usr/local/Cellar/opencv/4.5.3_3/include/opencv4"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++98",
+            "intelliSenseMode": "macos-clang-x64"
+        }
+    ],
+    "version": 4
+}
